@@ -1,7 +1,7 @@
 # Automation-Script
 The scripts are open-source for educational purposes, and do not involve in any confidential data. The scripts are written during the course of my employment in the event of the 2nd COVID wave at EVYD Technology Sdn Bhd.
 
-There are 3 scripts that have been developed to process and automate data processing. It includes obtaining real-time swab datasets from the database at MOH , Brunei, which will be ingesting into the EVYD database; retrieving Entry Travel Permit datasets using Rest API through Remote Desktop Connection protocol; and performing data cleansing on medical datasets which are required to be cleaned for further checked at EVYDresearch system. In addition, crontab is used to help automate the process of running the script without running a command, for example for swab data extration.
+There are 3 scripts that have been developed to process and automate data processing. It includes obtaining real-time swab datasets from the database at MOH , Brunei, which will be ingesting into the EVYD database; retrieving Entry Travel Permit datasets using Rest API through Remote Desktop Connection protocol; and performing data cleansing on medical datasets which are required to be cleaned for further check at EVYDresearch system. In addition, crontab is used to help automate the process of running the script without running a command, for example for swab data extration.
 
 Below are the descriptions of each file for its functionalities:-
 
