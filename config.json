@@ -1,0 +1,8 @@
+{
+    "username": "zulmi.yahya@dummy.com",
+    "password": "DUMMY-PASSWORD",
+    "mail_from" : "zulmi.yahya@.com",
+    "mail_to" : ["zulmi.yahya@dummy.com", "colleague1@dummy.com", "colleague2@dummy.com"],
+    "mail_subject" : "Swab Status Data",
+    "mail_body" : "Dear Data Operation Team,\n\nPlease kindly refer to the attached parquet data. To convert it into CSV format, please refer to the README.md. Thank you for your kind attention.\n\nRegards,\nZulmi"
+}
